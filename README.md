@@ -1,13 +1,13 @@
- # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=800&color=04e0bb&lines=Hi+there+%F0%9F%91%8B+this+is+HemanthSai;The+Full+Stack+Java+Developer+!!)
+ # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=800&color=04e0bb&lines=Hi+everyone+%F0%9F%91%8B+I+am+HemanthSai;Java+Full+Stack+Developer+!!)
 
 <h3 align="left">I'm a Java & Spring developer from India. I build applications/API's in SpringBoot. You can often see me exploring new technologies, I do enjoy working with Backend Technologies like Django,Servlets,Jsp,Hibernate and also well versed in Spring.  Take a look at my repositories - some of my best works are pinned here..</h3>
 
 - 🔭 I’m currently working on Auto-Translater.
 - 🌱 I’m currently learning SpringBoot.
 - 👯 I’m looking to collaborate on Backend Projects
-- 📫 How to reach me **hemanthsaiburla@gmail.com**
+- 📫 How to reach me: **hemanthsaiburla@gmail.com**
 - 😄 Pronouns: Chintu
-- ⚡ Fun fact: who are checking my profile i can't find...
+- ⚡ Fun fact: If you're checking my profile, I probably can't find you... 😉
 
 <p align="left">
 </p>
