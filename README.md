@@ -6,6 +6,9 @@
 - 🌱 I’m currently learning SpringBoot.
 - 👯 I’m looking to collaborate on Backend Projects
 - 📫 How to reach me: **hemanthsaiburla@gmail.com**
+- 👨‍💻 Portfolio: **https://jade-gelato-206799.netlify.app/**
+- 💁‍♂️ LinkedIn: **https://www.linkedin.com/in/hemanthsaiburla/**
+- ▶️ YouTube: **https://www.youtube.com/@Techchintuintelugu**
 - 😄 Pronouns: Chintu
 - ⚡ Fun fact: If you're checking my profile, I probably can't find you... 😉
 
