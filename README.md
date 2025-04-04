@@ -2,7 +2,7 @@
 
 <h3 align="left">I'm a Java & Spring developer from India. I build applications/API's in SpringBoot. You can often see me exploring new technologies, I do enjoy working with Backend Technologies like Servlets,Jsp,Hibernate and also well versed in Spring.  Take a look at my repositories - some of my best works are pinned here..</h3>
 
-- 🔭 I’m currently working on Auto-Translater.
+- 🔭 I’m currently working on Phone Dialer Application.
 - 🌱 I’m currently learning SpringBoot.
 - 👯 I’m looking to collaborate on Backend Projects
 - 📫 How to reach me: [Mail Me](mailto:hemanthsaiburla@gmail.com)
