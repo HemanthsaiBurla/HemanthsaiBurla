@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Phone Dialer Application.
 - 🌱 I’m currently learning SpringBoot.
-- 👯 I’m looking to collaborate on Backend Projects
+- 👯 I’m looking to collaborate on Front-end and Backend Projects
 - 📫 How to reach me: [Mail Me](mailto:hemanthsaiburla@gmail.com)
 - 👨‍💻 Portfolio: [Profile](https://jade-gelato-206799.netlify.app/)
 - 💁‍♂️ LinkedIn:  [Profile](https://www.linkedin.com/in/hemanthsaiburla/)
